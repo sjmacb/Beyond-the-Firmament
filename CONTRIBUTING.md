@@ -2,11 +2,14 @@
 
 Beyond the Firmament is a collaborative fictional universe. Contributions can include fiction, canon proposals, scientific or technical work, philosophy, games, art, and other media.
 
-## Canon levels
+Before submitting substantial work, read both `EDITORIAL_RULES.md` and `CONTRIBUTOR_AGREEMENT.md`.
 
-- **Core Canon** — foundational facts and rules. Changes require especially careful review.
-- **Expanded Canon** — accepted community-created additions.
-- **Non-Canon Works** — creative works that use the setting without becoming official history.
+## Publication designations
+
+- **Canon** — expressly reviewed and accepted as part of the official universe.
+- **Authorized Non-Canon** — permitted to use the Beyond the Firmament universe but not part of official history.
+
+Core Canon and Expanded Canon are both Canon; they differ only in how foundational the material is.
 
 ## How to contribute
 
@@ -14,8 +17,8 @@ Beyond the Firmament is a collaborative fictional universe. Contributions can in
 2. Check existing canon for conflicts.
 3. Draft the contribution in the appropriate folder.
 4. Submit a pull request explaining what you are adding or changing.
-5. Revise as needed during discussion.
-6. A contribution becomes canon only when it is merged into a canon folder.
+5. Revise as needed during editorial review.
+6. A contribution becomes canon only when it receives explicit approval and is merged into a canon folder.
 
 ## General principles
 
@@ -24,11 +27,18 @@ Beyond the Firmament is a collaborative fictional universe. Contributions can in
 - Avoid making powerful technology consequence-free.
 - Leave room for future writers rather than answering every question.
 - Stories may explore conflicting interpretations of history, politics, religion, and philosophy without requiring the canon itself to choose a side.
+- Popularity alone does not determine canon status.
 
 ## Creative works
 
-Stories, games, art, and other creative works do not need to become canon to belong in the project. Clearly identify whether a work is intended as canon, proposed canon, or non-canon.
+A story, game, artwork, or other creative project using the Beyond the Firmament universe requires authorization before public distribution.
+
+Authorized works may be designated either Canon or Authorized Non-Canon.
+
+Commercial publication or other commercial use requires a separate written license, which may include royalties, fees, revenue sharing, or other terms.
 
 ## Rights and licensing
 
-The project's final licensing and contribution terms have not yet been established. Do not assume that submitting work transfers ownership or grants commercial rights beyond what GitHub itself requires. Formal terms will be added before broad public solicitation of substantial creative contributions.
+Contributors retain ownership of their original work subject to the rights they grant under the current `CONTRIBUTOR_AGREEMENT.md` and any separate written license.
+
+Do not submit substantial material for official consideration unless you have read and accepted the current Contributor Agreement.
